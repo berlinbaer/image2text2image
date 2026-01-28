@@ -1,0 +1,10 @@
+prompt: A hyper-realistic cinematic portrait of a latina woman with short ginger hair and striking angular features captured in a dramatic studio environment dominated by intense red and orange tones. The latina woman with short ginger hair and striking angular features is shown from the chest up in a three-quarter profile, head slightly tilted upward, conveying a contemplative and powerful mood. He wears round, dark-lensed sunglasses with thin metal frames, subtly reflective with realistic glass depth and faint studio light reflections.
+
+His facial hair is dense and textured, with individual strands clearly visible, and his skin shows natural pores, fine wrinkles, and realistic oil sheen under directional lighting. Hair is slightly tousled, matte, and organically imperfect. Skin rendering is strictly photorealistic with accurate subsurface scattering and tonal variation.
+
+He wears a dark, heavy outer garment with a rugged, matte texture, absorbing light rather than reflecting it. The wardrobe feels utilitarian and understated, allowing the lighting and face to dominate the frame.
+
+Lighting is bold and cinematic: a strong red-orange key light washes across the background and one side of the face, while the opposite side falls into deep shadow with controlled falloff. Contrast is high but detailed, preserving texture in shadows. The background is a smooth red-to-orange gradient, clean and minimal, evoking intensity, heat, and psychological depth.
+
+Shot on a high-end cinema camera with a full-frame sensor, 85mm prime lens, f/2.0 aperture, shallow depth of field. Focus is razor-sharp on facial features and sunglasses, with smooth bokeh and natural lens compression. Filmic contrast, wide dynamic range, accurate color science, studio portrait photography style. Ultra-high resolution, 8k detail, pure photorealism, no stylization, no CGI look.
+negative prompt: 
