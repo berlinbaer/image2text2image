@@ -1,0 +1,6 @@
+prompt: A hyper-realistic side-profile portrait of a white woman with short ginger hair and striking angular features framed from mid-torso up, facing camera-right, captured in a clean, minimalist composition. The white woman with short ginger hair and striking angular features wears a dark, structured jacket with a high collar, fabric appearing smooth and tailored. The overall color palette is warm and monochromatic, dominated by saturated orange and amber tones.
+
+Lighting is graphic and precise: a strong warm key light washes the scene evenly, creating a soft glow across the profile and shoulder. Two horizontal light bars run behind the white woman with short ginger hair and striking angular features at head height, emitting bright white-yellow light, slightly diffused, cutting clean lines across the background. Subtle rim lighting traces the outline of the head and shoulder, separating the silhouette from the glowing backdrop. Minimal shadow detail, very controlled exposure.
+
+Shot on a full-frame camera with a standard portrait lens (around 70–85mm), moderate depth of field, razor-sharp profile edges. Camera positioned perfectly perpendicular to the subject for a true side profile, lens at head height. The mood is futuristic, refined, and architectural, with a sleek fashion-editorial feel and pristine photographic realism.
+negative prompt: 

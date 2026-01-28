@@ -1,0 +1,8 @@
+prompt: A hyper-realistic black-and-white photographic portrait of a white woman with lang white hair and striking angular features standing still within a moving crowd, captured in a candid street environment. He wears a dark tailored coat layered over a dark shirt, clean lines and matte fabric textures, no visible accessories. The environment is urban and dense, with people moving rapidly around him.
+
+Lighting is natural and ambient, likely overcast daylight or diffused city light, creating soft contrast and even tonal range across the face. No harsh shadows, just gentle shaping from surrounding reflected light. The white woman with lang white hair and striking angular features is sharply lit compared to the background, creating natural subject separation without artificial lighting.
+
+Camera uses a telephoto lens (around 85–105mm) with a slow shutter speed: the white woman with lang white hair and striking angular features is perfectly frozen and in sharp focus, while the surrounding crowd blurs into streaks of motion, creating dynamic movement trails. Camera is positioned slightly off-center at eye level, with a shallow depth of field isolating the subject from the environment.
+
+High realism, fine grain, rich grayscale tones, strong contrast between stillness and motion. Documentary-meets-editorial vibe, timeless, cinematic street photography feel.
+negative prompt: 
